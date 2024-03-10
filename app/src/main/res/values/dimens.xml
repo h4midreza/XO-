@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <dimen name="font_size_16">16sp</dimen>
     <dimen name="font_size_20">20sp</dimen>
+    <dimen name="font_size_22">22sp</dimen>
+    <dimen name="font_size_24">24sp</dimen>
     <dimen name="margin_xLarge">32dp</dimen>
-    <dimen name="button_width">150dp</dimen>
+    <dimen name="button_width">160dp</dimen>
 </resources>
